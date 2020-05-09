@@ -8,14 +8,19 @@ bisa dijalankan langsung melalui code editor online berikut : https://js.do/Ekky
 ........................................................................................................................................................................................
 
 Jawaban Soal no 2
+
 https://github.com/Eizeiky777/Test-Technical-Online-Dumbways-batch-16-4/blob/master/2.kebalikan_array.js
 
 bisa dijalankan langsung melalui code editor online berikut : https://js.do/Ekky888/437171
+........................................................................................................................................................................................
 
 Jawaban Soal no 3
+
 https://github.com/Eizeiky777/Test-Technical-Online-Dumbways-batch-16-4/blob/master/3.fungsi_cetak_gambar.js
 
 bisa dijalankan langsung melalui code editor online berikut : hhttps://js.do/Ekky888/437172
+
+........................................................................................................................................................................................
 
 Jawaban Soal no 4a
 
