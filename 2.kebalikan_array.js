@@ -7,6 +7,6 @@ function reverseArray(x) {
 }
 
 
-var a = prompt('masukkan angka atau huruf : ');
+var a = prompt('masukkan angka atau huruf lebih dari satu atau lebih : ');
 
 document.write(reverseArray(a));
